@@ -1,0 +1,7 @@
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\StackTest\obj\Debug\StackTest.csprojResolveAssemblyReference.cache
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\StackTest\bin\Debug\StackTest.dll
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\StackTest\bin\Debug\StackTest.pdb
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\StackTest\bin\Debug\Stack.exe
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\StackTest\bin\Debug\Stack.pdb
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\StackTest\obj\Debug\StackTest.dll
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\StackTest\obj\Debug\StackTest.pdb

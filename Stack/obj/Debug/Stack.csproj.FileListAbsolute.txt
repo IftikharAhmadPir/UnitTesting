@@ -1,0 +1,6 @@
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\Iftikhar Ahmad Pir\source\repos\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
